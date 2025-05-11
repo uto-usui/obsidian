@@ -1,0 +1,37 @@
+# Obsidian vault files to ignore
+
+# Obsidian configuration (optional - you might want to share some of these)
+.obsidian/cache
+.obsidian/workspaces.json
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/app.json
+
+# Mobile app ignores
+.obsidian/plugins/mobile
+
+# Hot reload related
+.hot-reload.json
+
+# Obsidian plugins data (optional - might want to share some plugins config)
+.obsidian/plugins/**/data.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.tmp
+tmp/
+
+# Log files
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+*.swp 
