@@ -1,12 +1,15 @@
 # Obsidian vault files to ignore
 
-# Obsidian configuration (optional - you might want to share some of these)
+# Obsidian configuration
+# 以下はコメントアウトして、設定ファイルをバージョン管理に含めます
+# .obsidian/workspaces.json
+# .obsidian/workspace
+# .obsidian/workspace.json
+# .obsidian/appearance.json
+# .obsidian/app.json
+
+# キャッシュファイルは引き続き除外します
 .obsidian/cache
-.obsidian/workspaces.json
-.obsidian/workspace
-.obsidian/workspace.json
-.obsidian/appearance.json
-.obsidian/app.json
 
 # Mobile app ignores
 .obsidian/plugins/mobile
@@ -15,7 +18,7 @@
 .hot-reload.json
 
 # Obsidian plugins data (optional - might want to share some plugins config)
-.obsidian/plugins/**/data.json
+# .obsidian/plugins/**/data.json
 
 # System files
 .DS_Store
