@@ -6,6 +6,9 @@
 # Mobile app ignores
 .obsidian/plugins/mobile
 
+# Obsidian core files
+.obsidian/workspace.json
+
 # Hot reload related
 .hot-reload.json
 
