@@ -1,6 +1,8 @@
 ---
-title: "Obsidian Propertiesの効果的な使い方"
-tags: [Obsidian, memo]
+alias: Obsidian Propertiesの効果的な使い方
+tags:
+  - Obsidian
+  - memo
 date: 2025-07-05
 ---
 
