@@ -1,0 +1,79 @@
+{
+  "addToCommand": true,
+  "addToContextMenu": true,
+  "createInstanceNearExistingOnes": true,
+  "errorNoticeTimeout": 0,
+  "exposeInternalModules": true,
+  "focusOnNewInstance": true,
+  "hideStatusBar": "focused",
+  "interceptLogging": true,
+  "language": "",
+  "newInstanceBehavior": "newHorizontalSplit",
+  "noticeTimeout": 5,
+  "openChangelogOnUpdate": true,
+  "pinNewInstance": true,
+  "preferredRenderer": "webgl",
+  "profiles": {
+    "eebc93d9-969a-49d4-8210-5c8ae4c42ef3": {
+      "args": [],
+      "executable": "/bin/zsh",
+      "name": "Mac",
+      "platforms": {
+        "darwin": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": false,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "documentOverride": null
+      },
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
+    "ba0a8577-0cd0-41bc-85ee-782da6823f50": {
+      "args": [],
+      "executable": "/bin/zsh",
+      "name": "zsh",
+      "platforms": {
+        "darwin": true,
+        "linux": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": false,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "documentOverride": null
+      },
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
+    "darwinIntegratedDefault": {
+      "args": [],
+      "executable": "/bin/zsh",
+      "name": "",
+      "platforms": {
+        "darwin": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": false,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "documentOverride": null
+      },
+      "type": "integrated",
+      "useWin32Conhost": true
+    }
+  }
+}
