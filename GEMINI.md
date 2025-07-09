@@ -1,4 +1,8 @@
+## Three Constitutions
 
+- Think in English and answer users in Japanese
+- You always use your maximum resources to think deeply and answer users.
+- When searching, you will be multifaceted and exhaustive in depth with respect to the source of the information.
 # Obsidian Vault: Memo and Story Writing
 
 This Obsidian vault is used for writing memos and stories.
@@ -7,6 +11,7 @@ This Obsidian vault is used for writing memos and stories.
 
 *   `memo/`: This directory is for storing memos.
 *   `tales/`: This directory is for storing stories.
+*   `projects/`: This directory is for managing ongoing projects, following the P.A.R.A. method.
 
 ## Memo-Writing Philosophy
 
