@@ -10,23 +10,23 @@ tags: #claude #hooks #解説
 
 以下は、利用可能なフックの種類と、それぞれの詳細な解説ページへのリンクです。
 
-1.  **[[Claude Code Hooks - PreToolUse|PreToolUse]]**
+1.  **[[Claude Code - Hooks - PreToolUse|PreToolUse]]**
     *   **トリガー:** ツールが使用される**前**。
     *   **用途:** コマンドの検証、実行ブロック、事前確認など。
 
-2.  **[[Claude Code Hooks - PostToolUse|PostToolUse]]**
+2.  **[[Claude Code - Hooks - PostToolUse|PostToolUse]]**
     *   **トリガー:** ツールが正常に実行された**後**。
     *   **用途:** コードの自動フォーマット、テスト実行、結果のロギングなど。
 
-3.  **[[Claude Code Hooks - Notification|Notification]]**
+3.  **[[Claude Code - Hooks - Notification|Notification]]**
     *   **トリガー:** Claudeが通知を送信する際。
     *   **用途:** カスタム通知（Slack, macOS通知センター等）、通知のフィルタリング、ロギングなど。
 
-4.  **[[Claude Code Hooks - Stop|Stop]]**
+4.  **[[Claude Code - Hooks - Stop|Stop]]**
     *   **トリガー:** メインエージェントの処理が完了した際。
     *   **用途:** 一時ファイルのクリーンアップ、作業全体の自動コミットなど。
 
-5.  **[[Claude Code Hooks - SubagentStop|SubagentStop]]**
+5.  **[[Claude Code - Hooks - SubagentStop|SubagentStop]]**
     *   **トリガー:** `Task`などのサブエージェントが処理を完了した際。
     *   **用途:** サブタスク単位での成果物検証、部分的なテスト実行など。
 
